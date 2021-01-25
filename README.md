@@ -3,5 +3,10 @@
 
 ---
 # 目錄
+  
+## 關於shell
 [CMD命令](CMD-基礎命令.md)  
-[Git與Github的起始流程](GIT-起始流程.md)
+  
+## 關於Git/Github
+[Git與Github的起始流程](GIT-起始流程.md)  
+[Git的基礎運作](GIT-基礎運作.md)
